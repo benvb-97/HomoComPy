@@ -6,7 +6,7 @@ Currently, these models are supported:
 - *Chamis' model*
 - *Mori-Tanaka* (based on a closed-form expression)
 ### Installation
-`pip install HomoComPy`
+`pip install homocompy`
 
 ### Get started
 How to calculate the effective properties of a fibre / matrix composite with this package:
