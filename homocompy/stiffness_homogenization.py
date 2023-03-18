@@ -154,3 +154,7 @@ def _calc_isotropic_shear_mod(e: float, v: float) -> float:
     :return: float, shear modulus of the material
     """
     return e / (2 * (v + 1))
+
+
+if __name__ == "__main__":
+    pass
