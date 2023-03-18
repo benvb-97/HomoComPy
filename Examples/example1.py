@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from HomoComPy.stiffness_homogenization import rule_of_mixtures, chamis_model, mori_tanaka
+from homocompy import rule_of_mixtures, chamis_model, mori_tanaka
 
 
 def example():
